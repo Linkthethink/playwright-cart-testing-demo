@@ -1,5 +1,5 @@
-# Project Name
-Playwright Cart Testing Demo
+# Playwright Cart Testing Demo
+
 
 ## Project Objectives
 To automate testing shopping cart and screenshot the overlay shopping cart and shopping cart status. This operation is repetitive and time-consuming in weekly e-commerce site update operation workflow.
