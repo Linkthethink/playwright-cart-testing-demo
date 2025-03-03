@@ -33,7 +33,7 @@ Expected Result:
 Cart overlay is visible, screenshot captured
 
 ### TC004 Check product quantity
-Check the quantity of "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set" in the cart
+Check the quantity of "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set" in the cart \n
 Expected result: Product quantity is 1	
 
 ### TC005 Check discount and price
