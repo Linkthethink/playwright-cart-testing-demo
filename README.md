@@ -29,23 +29,23 @@ Expected Result: Product successfully added to the cart
 ### TC003	Check cart overlay
 1. Click the cart icon
 2. Check if the cart overlay is visible
-Expected Result: 
+Expected Result: < br / >
 Cart overlay is visible, screenshot captured
 
 ### TC004 Check product quantity
-Check the quantity of "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set" in the cart \n
+Check the quantity of "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set" in the cart< br / >
 Expected result: Product quantity is 1	
 
 ### TC005 Check discount and price
 1. Enter discount code "VIPMS"
 2. Click the apply button
 3. Check the discount and total price
-Expected Result:
-Discount is (33.2%) HK$815
-Total price is HK$815
+Expected Result:< br / >
+Discount is (33.2%) HK$815< br / >
+Total price is HK$815< br / >
 cart discount screenshot captured
 
 ## Note
 The actual test plan of site update could be more complex, involving multiple product categories, promotional tiers, membership giftings and test case dependency. 
-For demo purpose, this test only contains 1 virtual set.
+For demo purpose, this test only contains 1 virtual set.< br / >
 Item url: https://www.clinique.com.hk/product/1685/122890/skin-care/gifts-sets/moisture-surgetm-100h-auto-replenishing-hydrator-jumbo-set
