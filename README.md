@@ -39,7 +39,7 @@ Expected result: Product quantity is 1
 ### TC005 Check discount and price
 1. Enter discount code "VIPMS"
 2. Click the apply button
-3. Check the discount and total price
+3. Check the discount and total price</br>
 Expected Result:<br/>
 Discount is (33.2%) HK$815<br/>
 Total price is HK$815<br/>
