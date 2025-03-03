@@ -1,11 +1,11 @@
 # Playwright Cart Testing Demo
 
 ## Project Objectives
-To automate testing shopping cart and screenshot the overlay shopping cart and shopping cart status. This operation is repetitive and time-consuming in weekly e-commerce site update operation workflow.
-This small test automation aims to streamline procedures to validate the discount pricing and net pricing of visual set. Also, the screenshots are ready to pass to brand representative after the test. </br>
+Since the operation of cart testing is repetitive and time-consuming in a weekly e-commerce site update, there is a need to automate the web testing and screenshotting the overlay shopping cart and shopping cart status. 
+For this demo, it aims to streamline procedures of validating the discount pricing and net pricing of a virtual set. Also, the screenshots are the final outputs which are ready to pass to brand representative after the test. </br>
 Youtube demo video: https://youtu.be/BhbtZGBPIqw
 
-## Variables needs to change before test
+## Variables needs to change every time before test
 1. Product name
 2. prodID
 3. skuID
@@ -46,6 +46,6 @@ Total price is HK$815<br/>
 cart discount screenshot captured
 
 ## Note
-The actual test plan of site update could be more complex, involving multiple product categories, promotional tiers, membership giftings and test case dependency. 
+The actual test plan of site update could be more complex, involving multiple product categories, promotional tiers, membership giftings and test case dependency. It requires further developing of the test module and maintenance of code.<br/>
 For demo purpose, this test only contains 1 virtual set.<br/>
 Item url: https://www.clinique.com.hk/product/1685/122890/skin-care/gifts-sets/moisture-surgetm-100h-auto-replenishing-hydrator-jumbo-set
