@@ -23,12 +23,12 @@ Open the browser and navigate to the website
 
 ### TC002 Add product to cart
 1. Search for "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set"
-2. Click on the product and add it to the cart
+2. Click on the product and add it to the cart</br>
 Expected Result: Product successfully added to the cart
 
 ### TC003	Check cart overlay
 1. Click the cart icon
-2. Check if the cart overlay is visible
+2. Check if the cart overlay is visible</br>
 Expected Result:<br/>
 Cart overlay is visible, screenshot captured
 
