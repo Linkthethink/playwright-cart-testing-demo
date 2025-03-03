@@ -18,15 +18,32 @@ This small test automation aims to streamline procedures to validate the discoun
 3. Type node index.js
 
 ## Test case
+TC001 Login to the website
+Open the browser and navigate to the website
 
+TC002 Add product to cart
+1. Search for "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set"
+2. Click on the product and add it to the cart
+Expected Result: Product successfully added to the cart
 
-### Condition
+TC003	Check cart overlay
+1. Click the cart icon
+2. Check if the cart overlay is visible
+Expected Result: 
+Cart overlay is visible, screenshot captured
 
+TC004 Check product quantity
+Check the quantity of "Moisture Surge™ 100H Auto-Replenishing Hydrator Jumbo Set" in the cart
+Expected result: Product quantity is 1	
 
-
-### Actual result
-
-
+TC005 Check discount and price
+1. Enter discount code "VIPMS"
+2. Click the apply button
+3. Check the discount and total price
+Expected Result:
+Discount is (33.2%) HK$815
+Total price is HK$815
+cart discount screenshot captured
 
 ## Note
 The actual test plan of site update could be more complex, involving multiple product categories, promotional tiers, membership giftings and test case dependency. 
