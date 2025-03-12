@@ -49,3 +49,13 @@ cart discount screenshot captured
 The actual test plan of site update could be more complex, involving multiple product categories, promotional tiers, membership giftings and test case dependency. It requires further developing of the test module and maintenance of code.<br/>
 For demo purpose, this test only contains 1 virtual set.<br/>
 Item url: https://www.clinique.com.hk/product/1685/122890/skin-care/gifts-sets/moisture-surgetm-100h-auto-replenishing-hydrator-jumbo-set
+
+##Future function update
+1. transform command line log to playwright testing config
+2. add video recording function for documentation
+3. add pdf export function for documentation
+4. add different test layer e.g. hitting shopping tier gwp offers -- checking on the gross total with the tier limit
+5. add adhoc promotion checking e.g. buy x items in skincare category, get extra gwp
+6. add member login
+7. add checking on membership gwp, i.e. membership gwp will exclude the tier gwp offer
+
