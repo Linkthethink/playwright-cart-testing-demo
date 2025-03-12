@@ -50,7 +50,7 @@ The actual test plan of site update could be more complex, involving multiple pr
 For demo purpose, this test only contains 1 virtual set.<br/>
 Item url: https://www.clinique.com.hk/product/1685/122890/skin-care/gifts-sets/moisture-surgetm-100h-auto-replenishing-hydrator-jumbo-set
 
-##Future function update
+## Future function update
 1. transform command line log to playwright testing config
 2. add video recording function for documentation
 3. add pdf export function for documentation
